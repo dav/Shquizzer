@@ -1,5 +1,7 @@
 # Shquizzer
 
+*This project is a Work In Progress and does not work yet*
+
 Create and take quizzes from Google Sheets
 
 Using this app you can specify a Google Sheet from which to 
