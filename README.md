@@ -1,16 +1,15 @@
-# shquizzer
+# Shquizzer
 
 Create and take quizzes from Google Sheets
 
-## Getting Started
+Using this app you can specify a Google Sheet from which to 
+pull data, and the app will create a multiple choice quiz
+for you to take.
 
-This project is a starting point for a Flutter application.
+This was initially created to help my daughter study for
+her USA State/Capital test in 5th grade.
 
-A few resources to get you started if this is your first Flutter project:
+## Building
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a [Flutter](https://flutter.dev/) project, so follow instructions on how to work
+with Flutter.
