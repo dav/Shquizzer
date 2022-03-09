@@ -1,6 +1,6 @@
 # Shquizzer
 
-*This project is a Work In Progress and does not work yet*
+*This project is a Work In Progress and does not use Google Sheets yet. It does present a hardcoded states capital quiz though.*
 
 Create and take quizzes from Google Sheets
 
